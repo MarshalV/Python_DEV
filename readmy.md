@@ -12,6 +12,13 @@ ls
 
 # Подсказки Git
 
+## конфиг
+создание конфигурации
+~~~
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+~~~
+
 ## инициализация
 Инициализация репозитория
 ~~~
@@ -34,4 +41,9 @@ git add FileName
 Фиксация изменений в репозитории
 ~~~
 git commit -m "Комент фиксации"
+~~~
+
+## Удаление файла из дирриктории
+~~~
+del <Filename>
 ~~~
