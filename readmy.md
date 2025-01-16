@@ -17,6 +17,19 @@ del <Filename>
 
 # Команды Git
 
+### Включает в себя
+* git config --global user.name "Your Name"
+* git config --global user.email "you@example.com"
+* git init
+* git status
+* git add 
+* git commit
+* git log
+* git checkout
+* git restore
+* git diff
+
+
 ## конфиг
 создание конфигурации
 ~~~
@@ -84,17 +97,5 @@ git restore <Filename>
 git diff
 ~~~
 
-## 
-~~~
-git
-~~~
-
-## 
-~~~
-git 
-~~~
-
-## 
-~~~
-git
-~~~
+### Итог
+[За инструкцию по оформлению .md файлов благодарность](https://gb.ru/) 
